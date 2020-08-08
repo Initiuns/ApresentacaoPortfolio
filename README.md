@@ -8,14 +8,14 @@ Meu nome e Felipe Assis e tenho 23 anos, estou trabalhando atualmente como Desen
 
 ### **Meus Skills:** ###
 
-*** HTML5**
-*** CSS3**
-*** JavaScript**
-*** C#**
-*** ASP.Net Core**
-*** SQL Server**
-*** ReactJS**
-*** React Native**
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+* **C#**
+* **ASP.Net Core**
+* **SQL Server**
+* **ReactJS**
+* **React Native**
 
 ### Meu LinkeDin: ###
 
